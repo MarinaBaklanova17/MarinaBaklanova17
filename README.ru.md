@@ -39,10 +39,6 @@
 | Визуализация | matplotlib, plotly, seaborn |
 | Прочее | SQL, R, Jupyter, Google Colab, Git |
 
-## Контакты
-
-- LinkedIn: *[будет добавлен]*
-- По вопросам проектов — открыть issue в соответствующем репозитории.
 
 ---
 
