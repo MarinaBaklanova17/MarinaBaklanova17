@@ -28,11 +28,6 @@ Master's research (2025). Comparative analysis of narratives produced by 19 larg
 
 *Key finding:* no single model fully replicates the readability of authentic fairy tales, but individual LLMs excel in specific readability dimensions.
 
-### Real-Time Helmet Detection via Deep Learning
-
-Industrial-video safety detection with YOLOv8 and Faster R-CNN.
-Stack: PyTorch, TensorFlow, OpenCV. *Code available on request.*
-
 ## Technical skills
 
 | Area | Tools |
