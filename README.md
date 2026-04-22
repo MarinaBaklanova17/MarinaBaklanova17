@@ -39,10 +39,6 @@ Master's research (2025). Comparative analysis of narratives produced by 19 larg
 | Visualization | matplotlib, plotly, seaborn |
 | Other | SQL, R, Jupyter, Google Colab, Git |
 
-## Contact
-
-- LinkedIn: *[to be added]*
-- For project inquiries, please open an issue in the relevant repository.
 
 ---
 
